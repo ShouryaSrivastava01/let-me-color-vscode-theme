@@ -1,0 +1,35 @@
+{
+    "name": "let-me-color",
+    "displayName": "Let Me Color",
+    "description": "fun theme designed by Shourya Srivastava",
+    "version": "0.0.1",
+    "publisher": "ShouryaSrivastava",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ShouryaSrivastava01/let-me-color-vscode-theme.git"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Shourya Srivastava",
+        "let me color",
+        "ShouryaSrivastava",
+        "letmecolor",
+        "green color"
+    ],
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shourya Srivastava",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shourya Srivastava-color-theme.json"
+            }
+        ]
+    }
+}
